@@ -1,0 +1,10 @@
+/* class selector */
+.konten {
+    color: aqua;
+}
+
+/* id selector */
+#sub {
+    color: blueviolet;
+    padding-left: 100px;
+}
